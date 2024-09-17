@@ -24,6 +24,6 @@ calculateSum(a,b);
 calculateMultiply(a,b)
 console.log(x);
 
-// console.log(a+b)
+// console.log(a+b)    
 
   
